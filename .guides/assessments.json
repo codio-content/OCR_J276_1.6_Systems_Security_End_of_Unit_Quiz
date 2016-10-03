@@ -1,197 +1,221 @@
 [
  {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-3042168333",
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2064514362",
   "source": {
-   "name": "Adware",
+   "name": "Question 1",
    "showName": false,
-   "instructions": "**What is Adware:**",
+   "instructions": "**Select correct answers from the available list**",
    "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "Replicates itself and aims to destroy the files on a device.",
-     "correct": false,
-     "_id": "c8a3fce9-5a16-1073-cd46-719c44a365bd"
-    },
-    {
-     "answer": "Malicious code that is spread between devices.",
-     "correct": false,
-     "_id": "98615e11-069b-bdab-3b92-1543c6e056bf"
-    },
-    {
-     "correct": true,
-     "answer": "Displays adverts on your screen that take over the control of your operating system.",
-     "_id": "d4b7dfaa-623d-38d7-9466-7680c3f9a360"
-    },
-    {
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "correct": false,
-     "_id": "ee7e92be-f6ab-ac6b-cadd-deea8fc22dc6"
-    },
-    {
-     "answer": "This piece of software will spy and monitor your internet activity.",
-     "correct": false,
-     "_id": "3fdfb7c4-bdfc-d6e3-e325-3a71c5f20860"
-    }
-   ]
+   "showValues": true,
+   "text": "<<<Social engineering>>> which includes blagging and <<<phishing>>> means psychologically tricking people into divulging their secret information. It can be combatted by having <<<network policies>>> which all users should read and follow.",
+   "tokens": {
+    "blank": [
+     "Social engineering",
+     "phishing",
+     "network policies"
+    ],
+    "text": [
+     0,
+     " which includes blagging and ",
+     0,
+     " means psychologically tricking people into divulging their secret information. It can be combatted by having ",
+     0,
+     " which all users should read and follow."
+    ]
+   }
   }
  },
  {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-2250756023",
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1107580131",
   "source": {
-   "name": "Spyware",
+   "name": "Question 2",
    "showName": false,
-   "instructions": "**What is Spyware:**",
+   "instructions": "**Select correct answers from the available list**",
    "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "Replicates itself and aims to destroy the files on a device.",
-     "correct": false,
-     "_id": "4983d123-af4a-eed7-8edc-6058600b3442"
-    },
-    {
-     "answer": "Malicious code that is spread between devices.",
-     "correct": false,
-     "_id": "0b245497-c5e0-0e39-a912-5e3e461219ae"
-    },
-    {
-     "answer": "Displays adverts on your screen that take over the control of your operating system.\r\n",
-     "correct": false,
-     "_id": "7911e8d9-ed48-7686-fde7-943937fb6f86"
-    },
-    {
-     "correct": true,
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "_id": "8c330cf4-ed34-1aa7-5379-73b0b5d2901e"
-    },
-    {
-     "answer": "This piece of software will spy and monitor your internet activity.",
-     "correct": false,
-     "_id": "9ef285c6-1b65-2812-3eea-0b85d0a9a0fb"
-    }
-   ]
+   "showValues": true,
+   "text": "Another form of attack is to use software to gain unauthorised software to disrupt the working of the network. This type of software is called <<<malware>>> and it includes viruses and <<<Trojans>>>. It can be combatted by using <<<anti-malware software>>> which should be constantly <<<updated>>> to remain effective. ",
+   "tokens": {
+    "blank": [
+     "malware",
+     "Trojans",
+     "anti-malware software",
+     "updated"
+    ],
+    "text": [
+     "Another form of attack is to use software to gain unauthorised software to disrupt the working of the network. This type of software is called ",
+     0,
+     " and it includes viruses and ",
+     0,
+     ". It can be combatted by using ",
+     0,
+     " which should be constantly ",
+     0,
+     " to remain effective. "
+    ]
+   }
   }
  },
  {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-83024094",
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1874439523",
   "source": {
-   "name": "Virus",
-   "showName": true,
-   "instructions": "**What is a Virus**",
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
    "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "Replicates itself and aims to destroy the files on a device.",
-     "correct": false,
-     "_id": "f12c5024-395c-cc1b-07cd-fb1d097f8a11"
-    },
-    {
-     "correct": true,
-     "answer": "Malicious code that is spread between devices.",
-     "_id": "aa398f5f-adbc-35e7-bd25-b3a6e7b25402"
-    },
-    {
-     "answer": "Displays adverts on your screen that take over the control of your operating system.",
-     "correct": false,
-     "_id": "055d746b-baaf-8785-f69c-252b7af43830"
-    },
-    {
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "correct": false,
-     "_id": "8433c321-6a72-0f16-0647-461a1830b8f2"
-    },
-    {
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "correct": false,
-     "_id": "66085b65-f71e-728b-ac46-390fd5ee01df"
-    }
-   ]
+   "showValues": true,
+   "text": "Often this type of software is used to take control of computers so that they can send repeated requests to a server and force it to grind to a halt. This is called a <<<denial of service>>> attack. <<<Firewalls>>> can be used to prevent unauthorised access especially over the <<<internet>>>. They can block packets from <<<IP>>> addresses not on a list of trusted <<<sites>>> and block communications to certain <<<external>>> addresses.",
+   "tokens": {
+    "blank": [
+     "denial of service",
+     "Firewalls",
+     "internet",
+     "IP",
+     "sites",
+     "external"
+    ],
+    "text": [
+     "Often this type of software is used to take control of computers so that they can send repeated requests to a server and force it to grind to a halt. This is called a ",
+     0,
+     " attack. ",
+     0,
+     " can be used to prevent unauthorised access especially over the ",
+     0,
+     ". They can block packets from ",
+     0,
+     " addresses not on a list of trusted ",
+     0,
+     " and block communications to certain ",
+     0,
+     " addresses."
+    ]
+   }
   }
  },
  {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-3010367227",
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-228869209",
   "source": {
-   "name": "Worm",
+   "name": "Question 4",
    "showName": false,
-   "instructions": "**What is a Worm**",
+   "instructions": "**Select correct answers from the available list**",
    "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "correct": true,
-     "answer": "Replicates itself and aims to destroy the files on a device.",
-     "_id": "1c9e9272-54b7-9ef6-2e28-a9e3cd2b3bfe"
-    },
-    {
-     "answer": "Malicious code that is spread between devices.",
-     "correct": false,
-     "_id": "380a28da-f2f0-fae3-1ae0-54f23d342c4c"
-    },
-    {
-     "answer": "Displays adverts on your screen that take over the control of your operating system.",
-     "correct": false,
-     "_id": "dfc31f73-4f2b-6ff6-8c2b-416b2f9bc44f"
-    },
-    {
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "correct": false,
-     "_id": "c3691548-cbf7-9d15-18af-de3ecad33524"
-    },
-    {
-     "answer": "This piece of software will spy and monitor your internet activity.",
-     "correct": false,
-     "_id": "efbeaf4a-0dcd-4833-312a-30bdc984cf95"
-    }
-   ]
+   "showValues": true,
+   "text": "In a network data traffic can be <<<intercepted>>> using packet analysers or <<<packet sniffers>>>. All data should be scrambled into a form that cannot be understood if it is stolen and accessed by unauthorised people. This process is called <<<encryption>>> and can be accomplished using <<<public>>> and private <<<keys>>>.",
+   "tokens": {
+    "blank": [
+     "intercepted",
+     "packet sniffers",
+     "encryption",
+     "public",
+     "keys"
+    ],
+    "text": [
+     "In a network data traffic can be ",
+     0,
+     " using packet analysers or ",
+     0,
+     ". All data should be scrambled into a form that cannot be understood if it is stolen and accessed by unauthorised people. This process is called ",
+     0,
+     " and can be accomplished using ",
+     0,
+     " and private ",
+     0,
+     "."
+    ]
+   }
   }
  },
  {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-2750888098",
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2493300855",
   "source": {
-   "name": "Trojan",
+   "name": "Question 5",
    "showName": false,
-   "instructions": "**What is a Trojan**",
+   "instructions": "**Select correct answers from the available list**",
    "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "Replicates itself and aims to destroy the files on a device.",
-     "correct": false,
-     "_id": "c5bed547-ff18-8288-7573-63cb3ea2046c"
-    },
-    {
-     "answer": "Malicious code that is spread between devices.",
-     "correct": false,
-     "_id": "950e2b21-61b7-27b5-9a51-6c4afea9d398"
-    },
-    {
-     "answer": "Displays adverts on your screen that take over the control of your operating system.",
-     "correct": false,
-     "_id": "b576271e-e332-2c6d-a26d-29518a4f5463"
-    },
-    {
-     "correct": true,
-     "answer": "Disguises them as legitimate software that the user will download and install",
-     "_id": "03ac18e4-f6f7-3d28-41cf-6aaf82ac9a66"
-    },
-    {
-     "answer": "This piece of software will spy and monitor your internet activity.",
-     "correct": false,
-     "_id": "38acdfa9-6026-dc80-8246-136dfe054f8e"
-    }
-   ]
+   "showValues": true,
+   "text": "The files that users of a network can use can be controlled by setting <<<user access levels>>>. User rights such as being able to view, <<<edit>>> or delete the files can be set. There must also be strict rules regarding the users’ <<<passwords>>> which are used to <<<authenticate>>> them. ",
+   "tokens": {
+    "blank": [
+     "user access levels",
+     "edit",
+     "passwords",
+     "authenticate"
+    ],
+    "text": [
+     "The files that users of a network can use can be controlled by setting ",
+     0,
+     ". User rights such as being able to view, ",
+     0,
+     " or delete the files can be set. There must also be strict rules regarding the users’ ",
+     0,
+     " which are used to ",
+     0,
+     " them. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-199246368",
+  "source": {
+   "name": "Question 6",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "These should have a minimum number of characters and not contain any <<<personal>>> information such as <<<date of birth>>> or postcode and should be changed regularly. These precautions are to prevent <<<hackers>>> from being able to guess them. Criminals often use software to generate millions of random combinations to try to find the right ones. This is called a <<<brute force>>> attack.",
+   "tokens": {
+    "blank": [
+     "personal",
+     "date of birth",
+     "hackers",
+     "brute force"
+    ],
+    "text": [
+     "These should have a minimum number of characters and not contain any ",
+     0,
+     " information such as ",
+     0,
+     " or postcode and should be changed regularly. These precautions are to prevent ",
+     0,
+     " from being able to guess them. Criminals often use software to generate millions of random combinations to try to find the right ones. This is called a ",
+     0,
+     " attack."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1299940999",
+  "source": {
+   "name": "Question 7",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Organisations should employ people to try to gain access their networks in order to test its security. This is called <<<penetration>>> testing. If they act in the role of an employee and have some knowledge of the network it is called <<<white box>>> testing but if they act as outsiders with no inside information it is called <<<black box>>> testing.",
+   "tokens": {
+    "blank": [
+     "penetration",
+     "white box",
+     "black box"
+    ],
+    "text": [
+     "Organisations should employ people to try to gain access their networks in order to test its security. This is called ",
+     0,
+     " testing. If they act in the role of an employee and have some knowledge of the network it is called ",
+     0,
+     " testing but if they act as outsiders with no inside information it is called ",
+     0,
+     " testing."
+    ]
+   }
   }
  }
 ]
